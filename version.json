@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9m",
-  "notes": "Schonender bei TikTok-Sperren: längere Wartezeiten zwischen den Verbindungsversuchen und klarere Meldung.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9m.exe",
-  "sha256": "673f1a97c38b3a6cd160cd8be0a92da6f2daa013d2be08eac62addfd5839d51c"
+  "version": "0.1.9n",
+  "notes": "Owner-Freischaltung: Wanderer-Look und Wanderer-Texte nur für den Besitzer, per Codewort in den Einstellungen.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9n.exe",
+  "sha256": "190d1018de34be59a29a9b3526f1eb749c858f2f63585b8be491f3dc08f708fe"
 }
