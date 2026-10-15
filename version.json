@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9u",
-  "notes": "Browser-Modus: keine unnötige Neuverbindung bei Funkstille, Diagnose im Protokoll.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9u.exe",
-  "sha256": "1791980df9a8c633b25188c69b938114bb481f741de740e5d4c5921ad3ddf160"
+  "version": "0.1.9v",
+  "notes": "Zahlen stimmen mit TikTok überein: Likes, Zuschauer, Geschenke (Name, Münzen, Bild) und Nutzernamen werden mit den Feldnamen der neuen Bibliothek gelesen.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9v.exe",
+  "sha256": "d7c63d20dd82d51a05bf640b9ed9c285d3e675c37857a507a258ce592bb5577d"
 }
