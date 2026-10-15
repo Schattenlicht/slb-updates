@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9s",
-  "notes": "Euler-Schlüssel braucht Business-Plan: Bridge verbindet bei diesem Fehler automatisch ohne Schlüssel weiter; Hinweistexte angepasst.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9s.exe",
-  "sha256": "9083b9e545be912b492c7c712c7b98d177f40ea2d3c3da263220df17e7fcf7eb"
+  "version": "0.1.9t",
+  "notes": "Browser-Modus (Test): TikTok LIVE über ein eigenes Edge-/Chrome-Fenster lesen, ganz ohne Signatur-Dienst. Unter Einstellungen → Verbindungsart.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9t.exe",
+  "sha256": "7adb6cead2a57648ed8425832108e838d141e90e1b7745058027d00d88e2f395"
 }
