@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9h",
-  "notes": "Nach einem Update öffnet sich kein zweites Fenster mehr.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9h.exe",
-  "sha256": "bb010299952650068014be2899f03d917ae17d4c99a77cd437b4bee8614b0ffc"
+  "version": "0.1.9i",
+  "notes": "Test-Knöpfe und Sprung-Knöpfe zum Aussehen, Link-Liste eingeklappt, Update-Prüfung ohne Zwischenspeicher.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9i.exe",
+  "sha256": "ac37460a0f3a11912d0af1a8ceaa045115d98f7de582a5211aa399a52cd0b3f8"
 }
