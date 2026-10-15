@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9j",
-  "notes": "Tab Overlays enthält jetzt Vorlagen, Bühne, eigene Texte und Bilder; Anzeige und Aussehen sind darin aufgegangen.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9j.exe",
-  "sha256": "57892cdc14b5e8222210607dcedfe628820aa96dcebb57c8d2aeff05ad8b8b07"
+  "version": "0.1.9k",
+  "notes": "Bis zu 6 Ziele: Ziel 1 fest, weitere per Button hinzufügen oder löschen. Neue Zieltypen: Shares, Abos, Chat-Nachrichten.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9k.exe",
+  "sha256": "0af178ee5bafbfb75de4db33159aac3c5fd227a92c7b8a865f94d5e0a57342a7"
 }
