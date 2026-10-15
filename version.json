@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9p",
-  "notes": "Gift-Regeln statt fester Coin-Stufen: eigene Regeln pro Gift oder Coin-Bereich. Gift frei testen im Test-Center.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9p.exe",
-  "sha256": "5f323fde46e5432d32bd68b760d1777b7b0adbef09e92bb4090530845de82b8a"
+  "version": "0.1.9q",
+  "notes": "Einfach/Profi-Schalter entfernt: alle Funktionen sind immer sichtbar.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9q.exe",
+  "sha256": "1909836538d04719906a0241ba115f71ed3b6e73e71a0dfecbe471f756d60d4c"
 }
