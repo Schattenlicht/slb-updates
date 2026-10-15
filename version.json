@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9q",
-  "notes": "Einfach/Profi-Schalter entfernt: alle Funktionen sind immer sichtbar.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9q.exe",
-  "sha256": "1909836538d04719906a0241ba115f71ed3b6e73e71a0dfecbe471f756d60d4c"
+  "version": "0.1.9r",
+  "notes": "Optionaler Verbindungs-Schlüssel (Euler Stream) gegen den überlasteten Signatur-Dienst, klarere Fehlermeldung.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9r.exe",
+  "sha256": "97d2ebd7cfeea7a0980386b1ed2618987a107dc105cdb6a92f378624fde4b1c6"
 }
