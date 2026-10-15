@@ -1,5 +1,6 @@
 {
-  "version": "0.1.9c",
-  "notes": "Aktuelle Version.",
-  "url": ""
+  "version": "0.1.9f",
+  "notes": "Eigene Bilder, GIFs und Töne für Alerts, Startliste für neue Nutzer.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9f.exe",
+  "sha256": "bb8168c1d77be3a875d0e201565d602ab4f0f4744e41167c81cb636ec26727f0"
 }
