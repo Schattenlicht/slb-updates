@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9o",
-  "notes": "Neues Gerüst mit Seitenleiste und Test-Center, Overlays in drei Spalten, Hinweis bei falscher Auflösung, Seite Unterstützen (Platzhalter).",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9o.exe",
-  "sha256": "c32bf232dc0e5f510b7736a03a7ba6ab5d45889f5cc30751ec6f81afdad90ac6"
+  "version": "0.1.9p",
+  "notes": "Gift-Regeln statt fester Coin-Stufen: eigene Regeln pro Gift oder Coin-Bereich. Gift frei testen im Test-Center.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9p.exe",
+  "sha256": "5f323fde46e5432d32bd68b760d1777b7b0adbef09e92bb4090530845de82b8a"
 }
