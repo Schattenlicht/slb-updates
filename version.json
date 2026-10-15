@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9k",
-  "notes": "Bis zu 6 Ziele: Ziel 1 fest, weitere per Button hinzufügen oder löschen. Neue Zieltypen: Shares, Abos, Chat-Nachrichten.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9k.exe",
-  "sha256": "0af178ee5bafbfb75de4db33159aac3c5fd227a92c7b8a865f94d5e0a57342a7"
+  "version": "0.1.9l",
+  "notes": "Alerts deutlich größer und lesbarer, neuer Regler Alert-Größe. Vorlagen im Profi-Modus eingeklappt.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9l.exe",
+  "sha256": "a929d66b8c4111fca86de1dfdd46aa2000837bed47fb10aaab9b1d31ed12c31a"
 }
