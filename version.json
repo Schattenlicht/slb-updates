@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9g",
-  "notes": "Vorlagen (Schlicht, Gemütlich, Energie), eigene Texte und Bilder auf der Bühne, Einstellungen direkt unter dem angeklickten Overlay.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9g.exe",
-  "sha256": "5858bff249590540b73233113d466cc7b4a6a1e20023156224e48bbed78f7ffd"
+  "version": "0.1.9h",
+  "notes": "Nach einem Update öffnet sich kein zweites Fenster mehr.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9h.exe",
+  "sha256": "bb010299952650068014be2899f03d917ae17d4c99a77cd437b4bee8614b0ffc"
 }
