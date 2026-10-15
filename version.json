@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9i",
-  "notes": "Test-Knöpfe und Sprung-Knöpfe zum Aussehen, Link-Liste eingeklappt, Update-Prüfung ohne Zwischenspeicher.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9i.exe",
-  "sha256": "ac37460a0f3a11912d0af1a8ceaa045115d98f7de582a5211aa399a52cd0b3f8"
+  "version": "0.1.9j",
+  "notes": "Tab Overlays enthält jetzt Vorlagen, Bühne, eigene Texte und Bilder; Anzeige und Aussehen sind darin aufgegangen.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/Setup-Schattenlicht-Live-Bridge-0.1.9j.exe",
+  "sha256": "57892cdc14b5e8222210607dcedfe628820aa96dcebb57c8d2aeff05ad8b8b07"
 }
