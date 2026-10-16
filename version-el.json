@@ -1,6 +1,6 @@
 {
-  "version": "0.1.10",
-  "notes": "Neu in dieser Version:\n- „Live-Regie“: oben eine Statusampel für die TikTok-Verbindung (grün, gelb, rot).\n- Die Start-Checkliste lässt sich einklappen und zeigt „Bereit für den Live-Stream“, wenn alles erledigt ist.\n- Klarere Buttons: Nur Hauptaktionen sind golden, alles andere ist neutral.\n- Overlay-Editor: „Sicherheitsrand zeigen“ markiert, wo TikToks eigene Oberfläche liegt.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.10.pack",
-  "sha256": "d06eac9c8160413597cd5ff9095c68b33d0e429ced5fdaaf5b745aeb4a0ed75b"
+  "version": "0.1.11",
+  "notes": "Neu in dieser Version:\n- Overlays starten jetzt in der freien Zone von TikTok 9:16 (oben 220, unten 700, rechts 160 Pixel). Der Sicherheitsrand ist nur eine Hilfe im Editor; „In der Freizone halten“ ist ein eigener Schalter.\n- „Erweiterte Einstellungen“ (eingeklappt) für Profi-Karten; Reiter „Community & Chat“; doppelte Test-Knöpfe entfernt.\n- Status „Wartet auf deinen Live-Start“ statt „Verbinde …“.\n- Schnellerer Start: Das Fenster öffnet sofort, das TikTok-Fenster folgt danach.\n- Log-Datei data\\bridge.log mit Startzeiten und Knopf „Log-Ordner öffnen“.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.11.pack",
+  "sha256": "ea7761d3a38fc2891b30740ab7802ccc36c5dbaab1571584c56e797593485936"
 }
