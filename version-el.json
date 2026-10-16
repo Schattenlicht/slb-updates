@@ -1,6 +1,6 @@
 {
-  "version": "0.1.32",
-  "notes": "Neu in dieser Version:\n- Looks mit unterschiedlichen Formen: Sprechblase, Blattecken, abgeschrägt, sehr rund, Doppelrahmen.\n- Ziele als Balken, Kreis oder senkrecht (Auswahl „Form“ im Ziel).\n- Overlays-Seite: Liste und Bühne laufen beim Scrollen mit.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.32.pack",
-  "sha256": "f3485b6c128515bea6ead5da2952d01f34e25e655f29d162195a009384b43f41"
+  "version": "0.1.33",
+  "notes": "Neu in dieser Version:\n- Das Menü „Element hinzufügen“ klappt wieder komplett auf.\n- Mitlaufen beim Scrollen gilt nur noch für die Bühne.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.33.pack",
+  "sha256": "c34500f0c1bd16b55cf6db501c59d0853d6945209804137d129ee0a102b957e5"
 }
