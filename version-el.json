@@ -1,6 +1,6 @@
 {
-  "version": "0.1.42",
-  "notes": "Mehrere Alert-Boxen: eigene Position, Größe, Aussehen und Meldungsarten je Box.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.42.pack",
-  "sha256": "9c5a72bdabd2e4daec73feed1760f9d803be88f9cdc697184e40315f02edf5cd"
+  "version": "0.1.43",
+  "notes": "Neuer Name: LumaStage.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.43.pack",
+  "sha256": "b1c3314ddb6cd5983604f4eb6b046dba75365a1a9d19a1b9547c4c21e2bb29d1"
 }
