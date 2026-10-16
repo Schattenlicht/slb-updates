@@ -1,6 +1,6 @@
 {
-  "version": "0.1.16",
-  "notes": "Neu in dieser Version:\n- Beim Aktualisieren während du live verbunden bist, fragt die Bridge vorher nach, weil die Zähler der Sitzung (Likes, Follower, Coins) beim Neustart auf null springen.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.16.pack",
-  "sha256": "9c372784e6d6ab09776697f4535218ec396cb6d8c1696889b4637cb7eef444e7"
+  "version": "0.1.17",
+  "notes": "Neu in dieser Version:\n- „Clean“ ist jetzt auch bei den kompletten Vorlagen (Seite Overlays) wählbar.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.17.pack",
+  "sha256": "1876d57935f959f598d3795c68a979d587c1bc0532e238feee4fcc1aa1c78872"
 }
