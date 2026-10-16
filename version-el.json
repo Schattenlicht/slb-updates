@@ -1,6 +1,6 @@
 {
-  "version": "0.1.41",
-  "notes": "Absturzsicheres Speichern, Stile verlieren keine Elemente mehr, Hinweise als kleine Meldungen statt Fenster.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.41.pack",
-  "sha256": "b520f0a8cf3e49b5ef0c4eaeb8877597f4e6f736da6658f9d3bdd6bf33e1cdbd"
+  "version": "0.1.42",
+  "notes": "Mehrere Alert-Boxen: eigene Position, Größe, Aussehen und Meldungsarten je Box.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.42.pack",
+  "sha256": "9c5a72bdabd2e4daec73feed1760f9d803be88f9cdc697184e40315f02edf5cd"
 }
