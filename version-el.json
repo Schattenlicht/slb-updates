@@ -1,6 +1,6 @@
 {
-  "version": "0.1.11",
-  "notes": "Neu in dieser Version:\n- Overlays starten jetzt in der freien Zone von TikTok 9:16 (oben 220, unten 700, rechts 160 Pixel). Der Sicherheitsrand ist nur eine Hilfe im Editor; „In der Freizone halten“ ist ein eigener Schalter.\n- „Erweiterte Einstellungen“ (eingeklappt) für Profi-Karten; Reiter „Community & Chat“; doppelte Test-Knöpfe entfernt.\n- Status „Wartet auf deinen Live-Start“ statt „Verbinde …“.\n- Schnellerer Start: Das Fenster öffnet sofort, das TikTok-Fenster folgt danach.\n- Log-Datei data\\bridge.log mit Startzeiten und Knopf „Log-Ordner öffnen“.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.11.pack",
-  "sha256": "ea7761d3a38fc2891b30740ab7802ccc36c5dbaab1571584c56e797593485936"
+  "version": "0.1.12",
+  "notes": "Neu in dieser Version:\n- Der Sicherheitsrand ist jetzt an einem echten Live gemessen: oben 170, unten 560, rechts 50 Pixel (vorher geschätzt). Die Standard-Anordnung nutzt die größere freie Zone. Gespeicherte Positionen bleiben; „Alles auf Standard zurücksetzen“ im Overlay-Editor übernimmt die neue Anordnung.\n- Kleine Korrektur in der Log-Datei.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.12.pack",
+  "sha256": "b02eb5fb6097f53b020fc1025683147b396cf04c629dfb4cdf8074a1a15f7171"
 }
