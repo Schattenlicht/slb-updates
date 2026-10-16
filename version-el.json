@@ -1,6 +1,6 @@
 {
-  "version": "0.1.25",
-  "notes": "Neu in dieser Version:\n- Die Vorschau der Bühne zeigt nur noch, was in der Elementliste steht.\n- „＋ Element hinzufügen“: unten „Ausgeschaltete Funktionen anzeigen“, dort lassen sich z. B. Musik/Spotify einschalten und einfügen.\n- Fehler behoben: Eine Funktion konnte sich beim Einschalten über die Liste sofort wieder ausschalten.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.25.pack",
-  "sha256": "2723a952e4363792575cb06bc91f2b34e3e448bafb5e97dceda280950e492425"
+  "version": "0.1.26",
+  "notes": "Neu in dieser Version:\n- Overlays: Kopfzeile mit Knopf „Szene-Link kopieren (1080 × 1920)“, dunkle Bühne, TikTok-Maske, Sicherheitsrand und Freizone als kleine Schalter.\n- Neuer Auge-Knopf in der Elementliste: blendet ein Element vorübergehend aus (auch in der echten Szene), Platz und Werte bleiben.\n- Eigene Texte und Bilder: Zeile anklicken, die Einstellungen erscheinen rechts neben der Bühne.\n- Beim Tippen in der rechten Spalte überschreibt keine Server-Antwort mehr die Eingabe.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.26.pack",
+  "sha256": "3d93137588e97a10973f69e07402ff44a647a8f0ec4bd4ef4e9b1e95c4ad3b3c"
 }
