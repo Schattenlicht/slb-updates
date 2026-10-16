@@ -1,6 +1,6 @@
 {
-  "version": "0.1.35",
-  "notes": "Neu in dieser Version:\n- Die Form eines Ziels (Balken, Kreis, Senkrecht) stellst du jetzt auf der Overlays-Seite beim Ziel ein („Form des Ziels“), die Vorschau zeigt sie sofort.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.35.pack",
-  "sha256": "a4642a34a1f453562c6e99b8bc7c9fed3bea3adbdf679974504a37dda72f7c4d"
+  "version": "0.1.36",
+  "notes": "Neu in dieser Version:\n- „Bühne & Plätze“ heißt jetzt „Stil“, der Zurück-Knopf ist deutlich sichtbar.\n- „Meine Stile“ als Auswahlliste über der Bühne mit Namensfeld, Speichern, Laden und Löschen (die Speichern-Knöpfe funktionieren jetzt).\n- Neue Atmosphäre „Schnee“.\n- Neuer Look „Weihnacht“ (nur für den Besitzer).",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.36.pack",
+  "sha256": "cc633df6afbf0119f282f1d6246ced053b531053055ce3e7cab2a86f4c316180"
 }
