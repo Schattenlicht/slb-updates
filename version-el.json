@@ -1,6 +1,6 @@
 {
-  "version": "0.1.38",
-  "notes": "Neu in dieser Version:\n- Der unklare Hinweis „alles auf einer Quelle“ neben der Szene-Bühne ist entfernt.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.38.pack",
-  "sha256": "2d3c8f67e7ac5e3fdb7dfb99d7b5a8def6435c5cc8126a7c4099a8b399731656"
+  "version": "0.1.39",
+  "notes": "Neuer Look Paintball, Atmosphäre Farbspritzer, Stil-Popup mit Suche und Gruppen, Test-Center mit sichtbarer Rückmeldung.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.39.pack",
+  "sha256": "c7a6f6248267efb8472145358c2a2788f2a3a996c6ddb756fabf9506cdb8353b"
 }
