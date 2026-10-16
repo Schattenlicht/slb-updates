@@ -1,6 +1,6 @@
 {
-  "version": "0.1.33",
-  "notes": "Neu in dieser Version:\n- Das Menü „Element hinzufügen“ klappt wieder komplett auf.\n- Mitlaufen beim Scrollen gilt nur noch für die Bühne.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.33.pack",
-  "sha256": "c34500f0c1bd16b55cf6db501c59d0853d6945209804137d129ee0a102b957e5"
+  "version": "0.1.34",
+  "notes": "Neu in dieser Version:\n- Das Menü „Element hinzufügen“ ist übersichtlicher und hübscher: Überschriften, volle Zeilen mit Hover, Schatten.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.34.pack",
+  "sha256": "a4c5436e211e682f7e4c92b07f6041777020c99a9c209f43006902a49d980a77"
 }
