@@ -1,6 +1,6 @@
 {
-  "version": "0.1.24",
-  "notes": "Neu in dieser Version:\n- Ziele heißen in der Elementliste, auf der Bühne und im Menü immer „Ziel: Titel“ (z. B. „Ziel: Likes“).",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.24.pack",
-  "sha256": "0d18daebc706d7fedb262d21b81c65e2a66ae2e85bf4d55760da24e1fe4b2d7f"
+  "version": "0.1.25",
+  "notes": "Neu in dieser Version:\n- Die Vorschau der Bühne zeigt nur noch, was in der Elementliste steht.\n- „＋ Element hinzufügen“: unten „Ausgeschaltete Funktionen anzeigen“, dort lassen sich z. B. Musik/Spotify einschalten und einfügen.\n- Fehler behoben: Eine Funktion konnte sich beim Einschalten über die Liste sofort wieder ausschalten.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.25.pack",
+  "sha256": "2723a952e4363792575cb06bc91f2b34e3e448bafb5e97dceda280950e492425"
 }
