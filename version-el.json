@@ -1,6 +1,6 @@
 {
-  "version": "0.1.17",
-  "notes": "Neu in dieser Version:\n- „Clean“ ist jetzt auch bei den kompletten Vorlagen (Seite Overlays) wählbar.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.17.pack",
-  "sha256": "1876d57935f959f598d3795c68a979d587c1bc0532e238feee4fcc1aa1c78872"
+  "version": "0.1.18",
+  "notes": "Neu in dieser Version:\n- Speicherplätze für eigene Looks (Seite Overlays): Free 2, später mit Premium 10. Gespeichert werden Stil, Positionen, Elemente und eigene Farben.\n- Die Knöpfe Schlicht/Gemütlich/Voll und „Mein Look“ sind weg; ein alter „Mein Look“ liegt auf Platz 1.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.18.pack",
+  "sha256": "c5c4c0e63a8256a5da66005194442977a927f0f0bf06bb7bd2a897912f6c665e"
 }
