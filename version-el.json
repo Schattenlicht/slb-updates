@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9z",
-  "notes": "Neu in dieser Version:\n- Aufgeräumte Oberfläche: „Ehrenhalle“ und „Ruhmeshalle“ heißen jetzt „Rangliste“ und stehen nur noch bei Community.\n- Menü: „Overlays & Alerts“ und „Einstellungen“, außerdem „Live-Status“ und „Abklingzeit“.\n- Test-Center mit „Like“, jeder Overlay-Link zeigt die empfohlene Größe, „Kopieren“ meldet „Kopiert!“.\n- Streamer.bot-Spalten bei den Ereignissen sind eingeklappt, solange Streamer.bot aus ist.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.9z.pack",
-  "sha256": "fb092ca32a0116c72e0a6d0ba53fef0f94966dc12ef45f9f1e34400016cdc7fe"
+  "version": "0.1.10",
+  "notes": "Neu in dieser Version:\n- „Live-Regie“: oben eine Statusampel für die TikTok-Verbindung (grün, gelb, rot).\n- Die Start-Checkliste lässt sich einklappen und zeigt „Bereit für den Live-Stream“, wenn alles erledigt ist.\n- Klarere Buttons: Nur Hauptaktionen sind golden, alles andere ist neutral.\n- Overlay-Editor: „Sicherheitsrand zeigen“ markiert, wo TikToks eigene Oberfläche liegt.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.10.pack",
+  "sha256": "d06eac9c8160413597cd5ff9095c68b33d0e429ced5fdaaf5b745aeb4a0ed75b"
 }
