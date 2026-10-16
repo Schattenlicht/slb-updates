@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9w",
-  "notes": "Test-Alerts zählen nicht mehr als echte Ereignisse; Updates laufen jetzt direkt im Programm.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.9w.pack",
-  "sha256": "e118ffc78d7c6687e2b7bec6a7c8df39f42ac527367a89008bc4399584ee9a73"
+  "version": "0.1.9x",
+  "notes": "Neu in dieser Version:\n- Die Update-Anzeige hat mehr Platz.\n- „Verbindungsart“ ist jetzt nur noch für den Owner sichtbar, die Euler-Stream-Anmeldung ist aus der App entfernt.\n- Unterstützen: Basic ist kostenlos, die freiwillige Bezahlvariante heißt Premium.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.9x.pack",
+  "sha256": "533328c41fa343c07788746b357e286b72f73fa545851fd2d80d0dac55a83855"
 }
