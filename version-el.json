@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9y",
-  "notes": "Neu in dieser Version:\n- Auswahllisten (Dropdowns) sind jetzt gut lesbar: dunkler Hintergrund, helle Schrift.\n- Die Update-Anzeige hat mehr Platz.\n- „Verbindungsart“ ist nur noch für den Owner sichtbar, die Euler-Stream-Anmeldung ist aus der App entfernt.\n- Unterstützen: Basic ist kostenlos, die freiwillige Bezahlvariante heißt Premium.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.9y.pack",
-  "sha256": "772ae0875e96ded9943ec3c83e96a2f382ef6842deb25eb40556f1bf87ab319a"
+  "version": "0.1.9z",
+  "notes": "Neu in dieser Version:\n- Aufgeräumte Oberfläche: „Ehrenhalle“ und „Ruhmeshalle“ heißen jetzt „Rangliste“ und stehen nur noch bei Community.\n- Menü: „Overlays & Alerts“ und „Einstellungen“, außerdem „Live-Status“ und „Abklingzeit“.\n- Test-Center mit „Like“, jeder Overlay-Link zeigt die empfohlene Größe, „Kopieren“ meldet „Kopiert!“.\n- Streamer.bot-Spalten bei den Ereignissen sind eingeklappt, solange Streamer.bot aus ist.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.9z.pack",
+  "sha256": "fb092ca32a0116c72e0a6d0ba53fef0f94966dc12ef45f9f1e34400016cdc7fe"
 }
