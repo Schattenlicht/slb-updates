@@ -1,6 +1,6 @@
 {
-  "version": "0.1.21",
-  "notes": "Neu in dieser Version:\n- Neuer Name: aus „Schattenlicht Live Bridge“ wird LiveLaterne (Fenstertitel, Seitenleiste, Meldungen). Deine Daten und der Update-Weg bleiben gleich.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.21.pack",
-  "sha256": "e76e483c72dffc8a5385bc67b3a8a242adba93a9d118ffeb6daf186e1f1684ca"
+  "version": "0.1.22",
+  "notes": "Neu in dieser Version:\n- Elemente-Liste der Bühne: ✕ nimmt ein Element sofort herunter, über „＋ Element hinzufügen“ kommt es zurück.\n- Reihenfolge der Elemente per Ziehen am Griff ändern (oben = vorne), wird mit der Bühne gespeichert.\n- „Alles auf Standard zurücksetzen“ entfällt.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.22.pack",
+  "sha256": "67eba16f7661b8930cfb0cc3c7f5217a243601b9b210c113782ce70cd6ee1841"
 }
