@@ -1,6 +1,6 @@
 {
-  "version": "0.1.13",
-  "notes": "Neu in dieser Version:\n- Overlays aufgeräumt: Szene-Bühne mit Szene-Link direkt über der Bühne, ein Knopf „Element hinzufügen“, Karte „Design & Fülle“ und eingeklappte „Einzel-Overlays (Profi-Modus)“.\n- „In der Freizone halten“ schiebt beim Einschalten alle Elemente in die Freizone.\n- Übersicht neu geordnet, Knöpfe „Verbindung starten/trennen“, Checkliste bleibt offen bis alles bereit ist.\n- Alerts Stufe 4: Text wird nicht mehr gequetscht.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.13.pack",
-  "sha256": "fa8c9398ff49a91b62cd51989317e4aeabebcd660c63287b51e5e0672705133d"
+  "version": "0.1.14",
+  "notes": "Neu in dieser Version:\n- Neuer Stil „Clean“: ruhig und modern, sanftes Einblenden.\n- Countdown-/Subathon-Timer (Seite Ziele) mit Start, Pause, ±Minuten und Zeit durch Geschenke.\n- Spickzettel auf der Übersicht: aktive Chat-Befehle und eigene Notizen.\n- Geschenk-Combo: Mehrfach-Geschenke derselben Person zählen im selben Alert hoch (×15).\n- Overlays aufgeräumt: „Bühnen-Stil & Dichte“, Ziele im Menü mit echtem Namen, neues Ziel direkt anlegen, Ziele frei umbenennbar.\n- Editor: Schalter „TikTok-Vorschau simulieren“, Freizone hält Elemente strikt.\n- Übersicht neu geordnet, Knöpfe „Verbindung starten/trennen“.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.14.pack",
+  "sha256": "7f978207e98df8ee42eb43fd975b2815616cace2e0e93edd36ccd5ccbde0ac40"
 }
