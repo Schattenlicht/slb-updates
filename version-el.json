@@ -1,6 +1,6 @@
 {
-  "version": "0.1.36",
-  "notes": "Neu in dieser Version:\n- „Bühne & Plätze“ heißt jetzt „Stil“, der Zurück-Knopf ist deutlich sichtbar.\n- „Meine Stile“ als Auswahlliste über der Bühne mit Namensfeld, Speichern, Laden und Löschen (die Speichern-Knöpfe funktionieren jetzt).\n- Neue Atmosphäre „Schnee“.\n- Neuer Look „Weihnacht“ (nur für den Besitzer).",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.36.pack",
-  "sha256": "cc633df6afbf0119f282f1d6246ced053b531053055ce3e7cab2a86f4c316180"
+  "version": "0.1.37",
+  "notes": "Neu in dieser Version:\n- Neuer Look „Studio“ für Musiker: Rack-Geräte aus Metall mit Schrauben, orange LED-Balken, Einschalt-Flackern. Das Cover bei „Es läuft“ wird zur drehenden Schallplatte.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.37.pack",
+  "sha256": "ac43efc19fe8d519403d997bc1e24deb9b9c09e0603136c64c5313321695aa48"
 }
