@@ -1,6 +1,6 @@
 {
-  "version": "0.1.39",
-  "notes": "Neuer Look Paintball, Atmosphäre Farbspritzer, Stil-Popup mit Suche und Gruppen, Test-Center mit sichtbarer Rückmeldung.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.39.pack",
-  "sha256": "c7a6f6248267efb8472145358c2a2788f2a3a996c6ddb756fabf9506cdb8353b"
+  "version": "0.1.40",
+  "notes": "Look-Vorschau ohne Scrollbalken, Knopf „Stil wechseln“ auffälliger.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.40.pack",
+  "sha256": "9a65211544ee0faad5eded834bed2f306cdac516bf4d037e256de1e6e57bc0d6"
 }
