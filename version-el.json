@@ -1,6 +1,6 @@
 {
-  "version": "0.1.30",
-  "notes": "Neu in dieser Version:\n- Sechs Looks, die sich komplett unterscheiden: Clean, Nebelpfad (mit Nebel), Neon Arcade, Glut, Pastell und Retro.\n- Auswahl über Vorschau-Kacheln in der Bühnen-Spalte, ein Klick setzt auch die passende Atmosphäre.\n- Die alten Stile Schlicht, Gemütlich und Energie sind entfernt.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.30.pack",
-  "sha256": "cee9e650cb4b2185eb66fdad9fe0ef8e61d1dafe29d2d1cecf866d98bc1771a1"
+  "version": "0.1.31",
+  "notes": "Neu in dieser Version:\n- Der Einrichtungs-Assistent hat nur noch drei Schritte. Die Frage „Wie voll soll dein Bild sein?“ ist entfernt, was sichtbar ist, stellst du selbst ein und speicherst es in deinen Plätzen.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.31.pack",
+  "sha256": "734d2045e2b34262858e4933904c561219c83b1c8a31027038eae6ef696f3892"
 }
