@@ -1,6 +1,6 @@
 {
-  "version": "0.1.26",
-  "notes": "Neu in dieser Version:\n- Overlays: Kopfzeile mit Knopf „Szene-Link kopieren (1080 × 1920)“, dunkle Bühne, TikTok-Maske, Sicherheitsrand und Freizone als kleine Schalter.\n- Neuer Auge-Knopf in der Elementliste: blendet ein Element vorübergehend aus (auch in der echten Szene), Platz und Werte bleiben.\n- Eigene Texte und Bilder: Zeile anklicken, die Einstellungen erscheinen rechts neben der Bühne.\n- Beim Tippen in der rechten Spalte überschreibt keine Server-Antwort mehr die Eingabe.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.26.pack",
-  "sha256": "3d93137588e97a10973f69e07402ff44a647a8f0ec4bd4ef4e9b1e95c4ad3b3c"
+  "version": "0.1.27",
+  "notes": "Neu in dieser Version:\n- Die Komplett-Vorlagen (Schlicht, Gemütlich, Energie, Clean) und „Vorlage wählen“ sind entfernt.\n- Aussehen, Meine Plätze und Info-Fenster stehen jetzt rechts neben der Bühne, wenn kein Element gewählt ist („‹ Bühne & Plätze“ bringt dich zurück).\n- Neue Installationen starten mit dem Aussehen Clean.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.27.pack",
+  "sha256": "0992949382672627e97b1e1bfc5468b59904104cb2a21aedfa35b9118b6d066c"
 }
