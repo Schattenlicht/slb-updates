@@ -1,6 +1,6 @@
 {
-  "version": "0.1.12",
-  "notes": "Neu in dieser Version:\n- Der Sicherheitsrand ist jetzt an einem echten Live gemessen: oben 170, unten 560, rechts 50 Pixel (vorher geschätzt). Die Standard-Anordnung nutzt die größere freie Zone. Gespeicherte Positionen bleiben; „Alles auf Standard zurücksetzen“ im Overlay-Editor übernimmt die neue Anordnung.\n- Kleine Korrektur in der Log-Datei.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.12.pack",
-  "sha256": "b02eb5fb6097f53b020fc1025683147b396cf04c629dfb4cdf8074a1a15f7171"
+  "version": "0.1.13",
+  "notes": "Neu in dieser Version:\n- Overlays aufgeräumt: Szene-Bühne mit Szene-Link direkt über der Bühne, ein Knopf „Element hinzufügen“, Karte „Design & Fülle“ und eingeklappte „Einzel-Overlays (Profi-Modus)“.\n- „In der Freizone halten“ schiebt beim Einschalten alle Elemente in die Freizone.\n- Übersicht neu geordnet, Knöpfe „Verbindung starten/trennen“, Checkliste bleibt offen bis alles bereit ist.\n- Alerts Stufe 4: Text wird nicht mehr gequetscht.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.13.pack",
+  "sha256": "fa8c9398ff49a91b62cd51989317e4aeabebcd660c63287b51e5e0672705133d"
 }
