@@ -1,6 +1,6 @@
 {
-  "version": "0.1.40",
-  "notes": "Look-Vorschau ohne Scrollbalken, Knopf „Stil wechseln“ auffälliger.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.40.pack",
-  "sha256": "9a65211544ee0faad5eded834bed2f306cdac516bf4d037e256de1e6e57bc0d6"
+  "version": "0.1.41",
+  "notes": "Absturzsicheres Speichern, Stile verlieren keine Elemente mehr, Hinweise als kleine Meldungen statt Fenster.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.41.pack",
+  "sha256": "b520f0a8cf3e49b5ef0c4eaeb8877597f4e6f736da6658f9d3bdd6bf33e1cdbd"
 }
