@@ -1,6 +1,6 @@
 {
-  "version": "0.1.15",
-  "notes": "Neu in dieser Version:\n- Spotify-Anmeldung in der App repariert: „Bei Spotify anmelden“ öffnet deinen Standard-Browser.\n- Stilwechsel (z. B. Clean ↔ Wanderer) wirkt sofort auch in der Vorschau des Overlay-Editors.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.15.pack",
-  "sha256": "1c5868450ff5a4c0c2fb328036b32a35103179cbc433ba6022b58abbb594e288"
+  "version": "0.1.16",
+  "notes": "Neu in dieser Version:\n- Beim Aktualisieren während du live verbunden bist, fragt die Bridge vorher nach, weil die Zähler der Sitzung (Likes, Follower, Coins) beim Neustart auf null springen.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.16.pack",
+  "sha256": "9c372784e6d6ab09776697f4535218ec396cb6d8c1696889b4637cb7eef444e7"
 }
