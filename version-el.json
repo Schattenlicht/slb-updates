@@ -1,6 +1,6 @@
 {
-  "version": "0.1.22",
-  "notes": "Neu in dieser Version:\n- Elemente-Liste der Bühne: ✕ nimmt ein Element sofort herunter, über „＋ Element hinzufügen“ kommt es zurück.\n- Reihenfolge der Elemente per Ziehen am Griff ändern (oben = vorne), wird mit der Bühne gespeichert.\n- „Alles auf Standard zurücksetzen“ entfällt.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.22.pack",
-  "sha256": "67eba16f7661b8930cfb0cc3c7f5217a243601b9b210c113782ce70cd6ee1841"
+  "version": "0.1.23",
+  "notes": "Neu in dieser Version:\n- „＋ Element hinzufügen“ zeigt nur, was eingeschaltet und noch nicht auf der Bühne ist.\n- ✕ nimmt ein Element nur von der Bühne, die Funktion bleibt an.\n- Sind Befehle an, aber keine angelegt: „＋ Neuen Befehl erstellen & einfügen …“.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.23.pack",
+  "sha256": "3e2b7f9eb109e75564291fc0d970d7a13281f958cc7707cbbe3b83616177d281"
 }
