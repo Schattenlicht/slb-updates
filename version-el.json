@@ -1,6 +1,6 @@
 {
-  "version": "0.1.37",
-  "notes": "Neu in dieser Version:\n- Neuer Look „Studio“ für Musiker: Rack-Geräte aus Metall mit Schrauben, orange LED-Balken, Einschalt-Flackern. Das Cover bei „Es läuft“ wird zur drehenden Schallplatte.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.37.pack",
-  "sha256": "ac43efc19fe8d519403d997bc1e24deb9b9c09e0603136c64c5313321695aa48"
+  "version": "0.1.38",
+  "notes": "Neu in dieser Version:\n- Der unklare Hinweis „alles auf einer Quelle“ neben der Szene-Bühne ist entfernt.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.38.pack",
+  "sha256": "2d3c8f67e7ac5e3fdb7dfb99d7b5a8def6435c5cc8126a7c4099a8b399731656"
 }
