@@ -1,6 +1,6 @@
 {
-  "version": "0.1.18",
-  "notes": "Neu in dieser Version:\n- Speicherplätze für eigene Looks (Seite Overlays): Free 2, später mit Premium 10. Gespeichert werden Stil, Positionen, Elemente und eigene Farben.\n- Die Knöpfe Schlicht/Gemütlich/Voll und „Mein Look“ sind weg; ein alter „Mein Look“ liegt auf Platz 1.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.18.pack",
-  "sha256": "c5c4c0e63a8256a5da66005194442977a927f0f0bf06bb7bd2a897912f6c665e"
+  "version": "0.1.19",
+  "notes": "Neu in dieser Version:\n- Timer-Overlay: „Timer an“ und das Element auf der Bühne sind jetzt immer gleich geschaltet, der Timer bleibt in der Szene nicht mehr unsichtbar.\n- Ein geladener Speicherplatz lässt den Timer, wie du ihn eingestellt hast.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.19.pack",
+  "sha256": "e7af8666ea274639a1228afdc96cbb7e005e2b037f63ca669c3b86f4783c9a00"
 }
