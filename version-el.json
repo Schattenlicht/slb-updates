@@ -1,6 +1,6 @@
 {
-  "version": "0.1.31",
-  "notes": "Neu in dieser Version:\n- Der Einrichtungs-Assistent hat nur noch drei Schritte. Die Frage „Wie voll soll dein Bild sein?“ ist entfernt, was sichtbar ist, stellst du selbst ein und speicherst es in deinen Plätzen.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.31.pack",
-  "sha256": "734d2045e2b34262858e4933904c561219c83b1c8a31027038eae6ef696f3892"
+  "version": "0.1.32",
+  "notes": "Neu in dieser Version:\n- Looks mit unterschiedlichen Formen: Sprechblase, Blattecken, abgeschrägt, sehr rund, Doppelrahmen.\n- Ziele als Balken, Kreis oder senkrecht (Auswahl „Form“ im Ziel).\n- Overlays-Seite: Liste und Bühne laufen beim Scrollen mit.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.32.pack",
+  "sha256": "f3485b6c128515bea6ead5da2952d01f34e25e655f29d162195a009384b43f41"
 }
