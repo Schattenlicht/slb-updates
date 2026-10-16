@@ -1,6 +1,6 @@
 {
-  "version": "0.1.28",
-  "notes": "Neu in dieser Version:\n- Keine weißen Vorschau-Flächen mehr (Aussehen ändern, Alerts-Vorschau u. a.).\n- Ist Streamer.bot aus, sind alle Streamer.bot-Schalter und Aktionsfelder ausgeblendet, mit Hinweis und Knopf zu den Einstellungen.\n- „Meine Plätze“ zeigt die richtige Anzahl (Besitzer 5).",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.28.pack",
-  "sha256": "c6cb7ed99af957767436a5a0b15a81cadb78259f6fd66f04ccb3d18255cca05b"
+  "version": "0.1.29",
+  "notes": "Neu in dieser Version:\n- Seiten aufgeräumt: Hauptschalter oben im Kartenkopf, ausgeschaltete Funktionen zugeklappt mit Status.\n- Ziele: Kopfzeile mit „Ziel hinzufügen“ und „Aussehen ändern“, Bereiche „Ziel-Balken“ und „Weitere Funktionen“.\n- Alerts: Vorschau rechts neben Ereignissen und Gift-Regeln.\n- Lange Erklärtexte stehen hinter „ⓘ Hilfe“.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.29.pack",
+  "sha256": "a87010f8ee219752ed449da856a7c8b291bb7628106990c2ccb00646c5e61f07"
 }
