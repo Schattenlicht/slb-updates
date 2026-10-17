@@ -1,6 +1,6 @@
 {
-  "version": "0.1.45",
-  "notes": "Hinweis auf OG Schattenlicht in Seitenleiste, Unterstützen-Tab und Karte; optionales Wasserzeichen in der Szene.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.45.pack",
-  "sha256": "a0fac8ffed7ccad080f6e172bb924f1166486abd4d72047fb7bb15180950101e"
+  "version": "0.1.46",
+  "notes": "Ko-fi-Link im Tab Unterstützen, Premium-Platzhalter entfernt.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.46.pack",
+  "sha256": "5e19118773d0aecdc0f73e00b15b9366d579a282b618e41e1992041c78275d60"
 }
