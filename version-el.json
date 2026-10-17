@@ -1,6 +1,6 @@
 {
-  "version": "0.1.46",
-  "notes": "Ko-fi-Link im Tab Unterstützen, Premium-Platzhalter entfernt.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.46.pack",
-  "sha256": "5e19118773d0aecdc0f73e00b15b9366d579a282b618e41e1992041c78275d60"
+  "version": "0.1.47",
+  "notes": "Alle Premium-Hinweise vorerst entfernt, Aussehen ändern für alle frei.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.47.pack",
+  "sha256": "3c630c116af5885f264535f7aa1a50fc5789a9e6f4e4604dad79dd5ff9b5a16d"
 }
