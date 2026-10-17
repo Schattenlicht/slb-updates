@@ -1,6 +1,6 @@
 {
-  "version": "0.1.47",
-  "notes": "Alle Premium-Hinweise vorerst entfernt, Aussehen ändern für alle frei.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.47.pack",
-  "sha256": "3c630c116af5885f264535f7aa1a50fc5789a9e6f4e4604dad79dd5ff9b5a16d"
+  "version": "0.1.48",
+  "notes": "Unterstützen-Tab neu gestaltet, Wasserzeichen mit vier Positionen.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.48.pack",
+  "sha256": "f080ca9f9e0099700779e17fd4858502ee7cc24bcba443000623d972d3c20ce6"
 }
