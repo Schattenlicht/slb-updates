@@ -1,6 +1,6 @@
 {
-  "version": "0.1.48",
-  "notes": "Unterstützen-Tab neu gestaltet, Wasserzeichen mit vier Positionen.",
-  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.48.pack",
-  "sha256": "f080ca9f9e0099700779e17fd4858502ee7cc24bcba443000623d972d3c20ce6"
+  "version": "0.1.49",
+  "notes": "Letzte Version von Live Bridge: Das Programm heißt jetzt Schattenlicht Stage. Neuer Download und neue Updates unter stage.og-schattenlicht.de.",
+  "url": "https://github.com/Schattenlicht/slb-updates/raw/main/download/app-0.1.49.pack",
+  "sha256": "9ac5da1b8c1f23ded385883063fa66218308e5c5a1ae087f9e2cb33a465c6ad2"
 }
